@@ -1,0 +1,21 @@
+Setando o e-mail:
+git config --global user.email iaraspontess@gmail.com
+
+Setando o nome do usuário:
+git config --global user.name "Iara Santos"
+
+Clonando o repositório para local:
+git clone https://github.com/Iara-santos/dio-desafio-github-primeiro-desafio-repositorio.git
+
+Atualiza as refs remotas junto com os objetos associados a ela:
+git push origin main
+
+O comando git status exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados:
+git status
+
+O comando git commit é usado para confirmar as alterações:
+git commit -m "inclusao da pasta desafio"
+
+O comando git add pode ser usado para adicionar arquivos ao índice. 
+git add .
+
